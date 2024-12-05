@@ -9,11 +9,8 @@ https://www.kaggle.com/datasets/debashis74017/stock-market-data-nifty-100-stocks
 ### Team Name: The Bull Runners
 
 ### Authors:
-Sandeep Pulavarthi      : sandeeppulav@iisc.ac.in
-
-S Varun                 :  varuns1@iisc.ac.in
-
-Arun Kumar A            : aruna@iisc.ac.in
-
-Akhzar Farhan           : akhzarfarhan@iisc.ac.in
+- Sandeep Pulavarthi      : sandeeppulav@iisc.ac.in
+- S Varun                 :  varuns1@iisc.ac.in
+- Arun Kumar A            : aruna@iisc.ac.in
+- Akhzar Farhan           : akhzarfarhan@iisc.ac.in
 
